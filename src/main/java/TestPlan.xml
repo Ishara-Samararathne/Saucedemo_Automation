@@ -1,0 +1,7 @@
+<suite name ="Automation Test" thread-count = "1" parallel ="methods">
+    <test name = "Automation">
+        <classes>
+            <class name = "SeleniumTest"></class>
+        </classes>
+    </test>
+</suite>
